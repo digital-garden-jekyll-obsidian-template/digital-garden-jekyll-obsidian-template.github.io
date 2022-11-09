@@ -1,4 +1,3 @@
-
 ### List of changes 
 #### RTL support 
 You must use the `ar` layout for full RTL notes. It also supports mixed content. 
